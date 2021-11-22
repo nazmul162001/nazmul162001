@@ -5,8 +5,7 @@
 - 🌱 I’m currently learning Javascript 
 - 👯 I’m looking to collaborate on GitHub 
 - 🤔 I’m looking for help with Open source Project 
-- 💬 Ask me about HTML, CSS, BOOTSTRAP, JS, REACT, NODE 
-- 
+- 💬 Ask me about HTML, CSS, BOOTSTRAP, JS, REACT, NODE
 
 <img src = "https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="860" height="350"/>
 
@@ -27,7 +26,8 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazmul162001)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nazmul162001&show_icons=true)  
 
