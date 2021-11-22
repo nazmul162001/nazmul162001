@@ -7,7 +7,8 @@
 - 🤔 I’m looking for help with Open source Project 
 - 💬 Ask me about HTML, CSS, BOOTSTRAP, JS, REACT, NODE 
 - 
-![Professional Front-end WEB DEVELOPER](https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true)
+
+<img src = "https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" />
 
 
 # Skills:
