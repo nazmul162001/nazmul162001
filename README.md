@@ -1,4 +1,4 @@
-
+![Profile views](https://gpvc.arturio.dev/nazmul162001)  
 <img align="right" alt="coding" width="350" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true">
 <h1 align="center">HI, I Am Nazmul Hasan, A Professional Front-end Web Developer</h1>
 
@@ -72,12 +72,12 @@
 
 <br>
 <br>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nazmul162001)  
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nazmul162001&show_icons=true)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nazmul162001)  
 
-![Profile views](https://gpvc.arturio.dev/nazmul162001)  
+
 
 # nazmul162001
