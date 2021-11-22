@@ -2,7 +2,6 @@
 ### Professional Front-end WEB DEVELOPER
 #### I am a Front-end  WEB DEVELOPER with having 2 years of experience. I am trying to be a Full-Stack web developer.
 
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Javascript 
 - 👯 I’m looking to collaborate on GitHub 
 - 🤔 I’m looking for help with Open source Project 
