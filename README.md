@@ -8,7 +8,7 @@
 - 💬 Ask me about HTML, CSS, BOOTSTRAP, JS, REACT, NODE 
 - 
 
-<img src = "https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="860" />
+<img src = "https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="860" height="350"/>
 
 
 # Example of Work
