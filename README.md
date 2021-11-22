@@ -4,11 +4,11 @@
 
 I am a Front-end  WEB DEVELOPER with having 2 years of experience. I am trying to be a Full-Stack web developer.
 
-Skills:
-# 📱  JS
-# ⚛  REACT
-# 👀 NODE
-# ✔  HTML / CSS / BOOTSTRAP
+# Skills:
+### 📱  JS
+### ⚛  REACT
+### 👀 NODE
+### ✔  HTML / CSS / BOOTSTRAP
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Javascript 
