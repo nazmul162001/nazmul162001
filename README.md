@@ -1,10 +1,10 @@
 
 <img align="right" alt="coding" width="350" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true">
-<h1 align="center">HI, I Am Md. Rokibul Hasan, A Professional Web Application Developer</h1>
+<h1 align="center">HI, I Am Nazmul Hasan, A Professional Front-end Web Developer</h1>
 
-<h3 align="left">I am a MERN stack WEB DEVELOPER with having 2 years of experience. I am working as a Freelance Full Stack web developer.</h3>
+<h3 align="left">I am a Front-end WEB DEVELOPER with having 2 years of experience. I am trying to be a Full Stack web developer.</h3>
 
-<p align="left"> <a href="https://twitter.com/Nazmul162001" target="blank"><img src="https://img.shields.io/twitter/follow/md_rokibulhasan?logo=twitter&style=for-the-badge" alt="Nazmul Hasan" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Nazmul162001" target="blank"><img src="https://img.shields.io/twitter/follow/Nazmul162001?logo=twitter&style=for-the-badge" alt="Nazmul Hasan" /></a> </p>
 
 - 💬 Ask me about **HTML, CSS, BootStrap, JavaScript, React, Node**.
 
@@ -21,10 +21,9 @@
 
 ### Connect with Me:
 
-[<img align="left" alt="Nazmul Hasan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
-[<img align="left" alt="Nazmul Hasan " facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Nazmul Hasan " Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Nazmul Hasan " LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/nazmul162001)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/webdev-nazmul-h//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/Nazmul1140)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/next_level_coding//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Nazmul162001)  
+
 
 <br />
 
