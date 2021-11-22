@@ -8,8 +8,12 @@
 - 💬 Ask me about HTML, CSS, BOOTSTRAP, JS, REACT, NODE 
 - 
 
-<img src = "https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" />
+<img src = "https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="860" />
 
+
+# Example of Work
+
+<img src = "https://github.com/adriantwarog/adriantwarog/raw/master/covid19.gif" width="256" />
 
 # Skills:
 ### 📱  JS
