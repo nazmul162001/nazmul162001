@@ -4,11 +4,15 @@
 
 <h3 align="left">I am a Front-end WEB DEVELOPER with having 2 years of experience. I am trying to be a Full Stack web developer.</h3>
 
-<p align="left"> <a href="https://twitter.com/Nazmul162001" target="blank"><img src="https://img.shields.io/twitter/follow/Nazmul162001?logo=twitter&style=for-the-badge" alt="Nazmul Hasan" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Nazmul162001" target="blank"><img src="https://img.shields.io/twitter/follow/Nazmul_162001?logo=twitter&style=for-the-badge" alt="Nazmul Hasan" /></a> </p>
 
 - 💬 Ask me about **HTML, CSS, BootStrap, JavaScript, React, Node**.
 
 - 📫 How to reach me **webdevnazmulh@gmail.com**
+
+
+# Example of Work
+<img src = "https://github.com/adriantwarog/adriantwarog/raw/master/covid19.gif" width="256" />
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
