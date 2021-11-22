@@ -12,7 +12,7 @@
 
 
 # Example of Work
-<img src = "https://github.com/adriantwarog/adriantwarog/raw/master/covid19.gif" width="256" />
+<img src = "https://github.com/adriantwarog/adriantwarog/raw/master/covid19.gif" width="845" height="365" />
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
