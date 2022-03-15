@@ -87,8 +87,8 @@
 </details>
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nazmul162001&show_icons=true width="40")
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nazmul162001 width="40")
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nazmul162001&show_icons=true)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nazmul162001)
 
 <!-- matrix -->
 ![GitHub metrics](https://metrics.lecoq.io/nazmul162001)
