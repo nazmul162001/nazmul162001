@@ -72,10 +72,6 @@
 
 
 <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> 
-<details>
- <summary>🏆 Github Profile Trophy</summary>
- </br>
-</details>
 
 
 [twitter]: https://twitter.com/Nazmul162001
@@ -95,7 +91,7 @@
 
 <!-- matrix -->
 ![GitHub metrics](https://metrics.lecoq.io/nazmul162001)
-<!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nazmul162001)   -->
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nazmul162001)  
 
 
 
