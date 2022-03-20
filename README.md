@@ -82,9 +82,9 @@
 <br>
 <br>
 
-<details open="">
+<!-- <details open="">
    <a href="https://github.com/mikyll/mikyll"><img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg"/></a>
-</details>
+</details> -->
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nazmul162001&show_icons=true)
