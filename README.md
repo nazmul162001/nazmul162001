@@ -87,7 +87,11 @@
 </details> -->
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nazmul162001&show_icons=true)![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nazmul162001)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nazmul162001&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&fire=DD00C2)](https://git.io/streak-stats)
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazmul162001&layout=compact)](https://github.com/nazmul162001/github-readme-stats)
 
 
 
