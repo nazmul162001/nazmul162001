@@ -82,16 +82,16 @@
 <br>
 <br>
 
-<!-- <details open="">
-   <a href="https://github.com/mikyll/mikyll"><img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg"/></a>
-</details> -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazmul162001&layout=compact)](https://github.com/nazmul162001/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nazmul162001&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&fire=DD00C2)](https://git.io/streak-stats)
 
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazmul162001&layout=compact)](https://github.com/nazmul162001/github-readme-stats)
 
 
 
