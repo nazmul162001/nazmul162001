@@ -82,7 +82,7 @@
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazmul162001&langs_count=8)](https://github.com/nazmul162001/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazmul162001&langs_count=8)](https://github.com/nazmul162001/github-readme-stats) -->
 
 <br>
 
