@@ -1,8 +1,8 @@
 ![Profile views](https://gpvc.arturio.dev/nazmul162001)  
 
-<div align="right" width="350">
- <img alt="coding" width="350" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true">
-</div>
+<!-- <div align="right" width="350"> -->
+ <img alt="coding" align="right" width="350" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true">
+<!-- </div> -->
 
 
 <h1 align="center">HI, I Am Nazmul Hasan, A Professional Front-end Web Developer</h1>
