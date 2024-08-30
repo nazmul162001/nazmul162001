@@ -10,7 +10,7 @@
 
 
 <h1 align="center">HI, I Am Nazmul Hasan, A Professional Front-end Web Developer</h1>
-<h3 align="left">I am a Front-end WEB DEVELOPER with having 2 years of experience. I am trying to be a Full Stack web developer.</h3>
+<h3 align="left">I am a Front-end WEB DEVELOPER with having 2 years of experience.</h3>
 
 <!-- <img align="right" alt="coding" width="350" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true"> -->
 <br>
