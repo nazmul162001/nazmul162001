@@ -1,4 +1,8 @@
-![Profile views](https://gpvc.arturio.dev/nazmul162001)  
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=nazmul162001.nazmul162001&"  />
+</div>
+
+###
 
 <!-- <div align="right" width="350"> -->
  <img alt="coding" align="right" width="350" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true">
