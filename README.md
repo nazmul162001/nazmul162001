@@ -83,20 +83,11 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazmul162001&langs_count=8)](https://github.com/nazmul162001/github-readme-stats) -->
 
-<br>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nazmul162001&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&fire=DD00C2)](https://git.io/streak-stats)
 
-[[GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nazmul162001&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&fire=DD00C2)](https://git.io/streak-stats)
+[![nazmul162001's Stats](https://github-readme-stats.vercel.app/api?username=nazmul162001&theme=blue-green&show_icons=true&hide_border=true&count_private=true)](https://github.com/nazmul162001)
 
-
-
-<br />
-<br />
-[nazmul162001's Stats](https://github-readme-stats.vercel.app/api?username=nazmul162001&theme=blue-green&show_icons=true&hide_border=true&count_private=true)
-
-<br />
-![nazmul162001's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nazmul162001&theme=blue-green&show_icons=true&hide_border=true&layout=compact)
-
-<br />
+[![nazmul162001's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nazmul162001&theme=blue-green&show_icons=true&hide_border=true&layout=compact)](https://github.com/nazmul162001)
 
 
 
