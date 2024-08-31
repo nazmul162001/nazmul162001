@@ -84,14 +84,14 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazmul162001&langs_count=8)](https://github.com/nazmul162001/github-readme-stats) -->
 div align="center">
   <div style="display: flex; justify-content: space-between; align-items: stretch;">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nazmul162001&theme=blue-green&show_icons=true&hide_border=true&count_private=true&card_width=500&line_height=24&hide_rank=true&custom_title=nazmul162001's%20Stats&hide=stars,issues&rank_icon=github&include_all_commits=true&height=180" alt="nazmul162001's Stats" />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmul162001&theme=blue-green&show_icons=true&hide_border=true&layout=compact&card_width=500&langs_count=6&height=180" alt="nazmul162001's Top Languages" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nazmul162001&theme=blue-green&show_icons=true&hide_border=true&count_private=true&card_width=500&line_height=24&hide_rank=true&custom_title=nazmul162001's%20Stats&hide=stars,issues&rank_icon=github&include_all_commits=true&height=250" alt="nazmul162001's Stats" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmul162001&theme=blue-green&show_icons=true&hide_border=true&layout=compact&card_width=500&langs_count=6&height=250" alt="nazmul162001's Top Languages" />
   </div>
   
   <br />
   
   <a href="https://git.io/streak-stats">
-    <img width="70%" src="http://github-readme-streak-stats.herokuapp.com?user=nazmul162001&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&fire=DD00C2" alt="GitHub Streak" />
+    <img width="100%" src="http://github-readme-streak-stats.herokuapp.com?user=nazmul162001&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&fire=DD00C2&height=250" alt="GitHub Streak" />
   </a>
 </div>
 
