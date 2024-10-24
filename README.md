@@ -80,5 +80,5 @@
 
  <h2 align="center">👇👇Missing Contribution From Feb to Jun 2024 - <a href="https://github.com/nazmul1140?tab=overview&from=2024-10-01&to=2024-10-24">this account 👇👇</a></h2>
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1P4Bw6Zvs0gFHPFT-4WyZt4AvpxRrsIr1" alt="Screenshot 1" width="100%" />
+  <img src="https://drive.google.com/uc?export=view&id=1P4Bw6Zvs0gFHPFT-4WyZt4AvpxRrsIr1" alt="Screenshot 1" width="100%" height=200 />
 </p>
