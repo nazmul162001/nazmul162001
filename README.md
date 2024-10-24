@@ -25,19 +25,16 @@
 # 📫 Reach me out! 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Nazmul-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazmul-h/) [![Mail Badge](https://img.shields.io/badge/-webdevnazmulh@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:webdevnazmulh@gmail.com)
-
-📬 Or Contact- **webdevnazmulh@gmail.com**
-<br>
 <!-- Top Technologies -->
 
 <br>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
-- I'm an aspiring 🔭️ Web Developer currently learning 🌱 **Nodejs** deeply.
-- I'm a quick learner & I love to learn new 💻 **Technologies**.
-- I always loved working in **Visual Studio Code** .
-- I've a soft corner for 💻 **Wordpress** and I can do some help with wordpress too.
+- 🔭 I’m working - In ChatChef.
+- 💻 I'm a fast learner, passionate about exploring and working with new **technologies**.
+- 🛠 I enjoy working in **Visual Studio Code**, constantly optimizing my development environment for productivity.
+
 
 </br>
 
@@ -50,19 +47,30 @@
 
 <br /> -->
 
-### Languages and Tools:
+## :computer: Technologies that I know
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="26px" style="max-width:100%;">
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="26px" style="max-width:100%;">
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<br>
+<p align="center">
+<img src="https://github.com/nazmul162001/nazmul162001/blob/main/images/icons/HTML.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/python.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/c.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/cpp.png"/>
+</p>
+<p align="center">
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/redux.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/sass.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png"/>
+</p>
+<p align="center">
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
+</p><br/>
 
 <br />
 <br />
