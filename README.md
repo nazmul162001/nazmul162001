@@ -82,8 +82,3 @@
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1P4Bw6Zvs0gFHPFT-4WyZt4AvpxRrsIr1" alt="Screenshot 1" width="100%" />
 </p>
-
-
-
-
-# nazmul162001
