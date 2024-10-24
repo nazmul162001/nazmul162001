@@ -11,8 +11,8 @@
 
 <div align="center" style="width: 700px; height: 150px; display: flex; justify-content: center; align-items: center; border: 1px solid #ccc;">
   <div>
-    <h1>HI, I Am Nazmul Hasan, A Professional Front-end Web Developer</h1>
-    <h3>I am a Front-end WEB DEVELOPER with 2 years of experience.</h3>
+    <h1>HI, I Am Nazmul Hasan</h1>
+    <h3>💻 Currently working as a **Front-End** and 📱 **React Native Developer** with over **2.5 years** of experience.</h3>
   </div>
 </div>
 
