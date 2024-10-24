@@ -9,7 +9,7 @@
 <!-- </div> -->
 
 
-<div style="width: 500px; height: 200px; display: flex; justify-content: center; align-items: center; text-align: center; margin: auto; border: 1px solid #000;">
+<div align="center" style="width: 700px; height: 150px; display: flex; justify-content: center; align-items: center; border: 1px solid #ccc;">
   <div>
     <h1>HI, I Am Nazmul Hasan, A Professional Front-end Web Developer</h1>
     <h3>I am a Front-end WEB DEVELOPER with 2 years of experience.</h3>
