@@ -79,9 +79,9 @@
 <br />
 
  <h2 align="center">Missing Contribution From Feb to Jun 2024 - <a href="https://github.com/nazmul1140?tab=overview&from=2024-10-01&to=2024-10-24">this account</a></h2>
-<div style="width: 100%; height: 200px;">
-  <img src="https://github.com/nazmul162001/nazmul162001/blob/main/images/icons/missing.png" alt="Missing Icon" style="width: 100%; height: 100%;" />
-</div>
+<a href="https://github.com/nazmul1140?tab=overview&from=2024-10-01&to=2024-10-24">
+<img src="https://raw.githubusercontent.com/nazmul162001/nazmul162001/main/images/missing.svg" />
+</a>
 
 
 
