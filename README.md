@@ -5,12 +5,12 @@
 ###
 
 <!-- <div align="right" width="350"> -->
- <img alt="coding" align="right" width="350" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true">
+<!-- <img alt="coding" align="right" width="350" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true"> -->
 <!-- </div> -->
 
 
 <h1 align="center">HI, I Am Nazmul Hasan, A Professional Front-end Web Developer</h1>
-<h3 align="left">I am a Front-end WEB DEVELOPER with having 2 years of experience.</h3>
+<h3 align="center">I am a Front-end WEB DEVELOPER with having 2 years of experience.</h3>
 
 <!-- <img align="right" alt="coding" width="350" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true"> -->
 <br>
@@ -29,9 +29,6 @@
 <!-- Top Technologies -->
 
 <br>
-
-# Example of Work
-<img src = "https://github.com/adriantwarog/adriantwarog/raw/master/covid19.gif" width="350" height="210" />
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
