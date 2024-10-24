@@ -72,11 +72,6 @@
 <br />
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazmul162001&langs_count=8)](https://github.com/nazmul162001/github-readme-stats) -->
  ## :chart_with_upwards_trend: Current Stats
-<div align="center">
-  <div style="display: flex; justify-content: space-between; align-items: center;">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=nazmul162001&theme=blue-green&show_icons=true&hide_border=true&count_private=true&card_width=500&line_height=24&hide_rank=true&custom_title=nazmul162001's%20Stats&hide=issues&rank_icon=github&include_all_commits=true&height=200" alt="nazmul162001's Stats" />
-  </div>
-  <br />
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=nazmul162001&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
