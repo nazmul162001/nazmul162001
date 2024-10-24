@@ -54,9 +54,6 @@
 <img src="https://github.com/nazmul162001/nazmul162001/blob/main/images/icons/HTML.png"/>
 <img src="https://github.com/nazmul162001/nazmul162001/blob/main/images/icons/css.png"/>
 <img src="https://github.com/nazmul162001/nazmul162001/blob/main/images/icons/JavaScript.png"/>
-<img src="https://github.com/nazmul162001/nazmul162001/blob/main/images/icons/python.png"/>
-<img src="https://github.com/nazmul162001/nazmul162001/blob/main/images/icons/c.png"/>
-<img src="https://github.com/nazmul162001/nazmul162001/blob/main/images/icons/cpp.png"/>
 </p>
 <p align="center">
 <img src="https://github.com/nazmul162001/nazmul162001/blob/main/images/icons/react.png"/>
