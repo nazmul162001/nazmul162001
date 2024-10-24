@@ -12,7 +12,7 @@
 <div align="center" style="width: 700px; height: 150px; display: flex; justify-content: center; align-items: center; border: 1px solid #ccc;">
   <div>
     <h1>HI, I Am Nazmul Hasan</h1>
-    <h3>💻 Currently working as a **Front-End** and 📱 **React Native Developer** with over **2.5 years** of experience.</h3>
+    <h3>💻 Currently working as a Front-End and React Native App Developer with over 2.5 years of experience.</h3>
   </div>
 </div>
 
