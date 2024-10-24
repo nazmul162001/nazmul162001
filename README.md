@@ -9,8 +9,12 @@
 <!-- </div> -->
 
 
-<h1 align="center">HI, I Am Nazmul Hasan, A Professional Front-end Web Developer</h1>
-<h3 align="center">I am a Front-end WEB DEVELOPER with having 2 years of experience.</h3>
+<div style="width: 500px; height: 200px; display: flex; justify-content: center; align-items: center; text-align: center; margin: auto; border: 1px solid #000;">
+  <div>
+    <h1>HI, I Am Nazmul Hasan, A Professional Front-end Web Developer</h1>
+    <h3>I am a Front-end WEB DEVELOPER with 2 years of experience.</h3>
+  </div>
+</div>
 
 <!-- <img align="right" alt="coding" width="350" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true"> -->
 <br>
@@ -20,9 +24,7 @@
 
 # 📫 Reach me out! 
 
-[![Twitter Badge](https://img.shields.io/badge/-@nazmul-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Nazmul162001)](https://twitter.com/Nazmul162001) 
-[![Mail Badge](https://img.shields.io/badge/-Coding-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCGbrSNkZ-yF0mRYRveLGcxQ) 
-[![Linkedin Badge](https://img.shields.io/badge/-Nazmul-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/webdev-nazmul-h/) [![Mail Badge](https://img.shields.io/badge/-webdevnazmulh@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:webdevnazmulh@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Nazmul-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazmul-h/) [![Mail Badge](https://img.shields.io/badge/-webdevnazmulh@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:webdevnazmulh@gmail.com)
 
 📬 Or Contact- **webdevnazmulh@gmail.com**
 <br>
