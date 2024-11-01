@@ -67,7 +67,7 @@
 <img src="https://github.com/nazmul162001/nazmul162001/blob/main/images/icons/node.png"/>
 <img src="https://github.com/nazmul162001/nazmul162001/blob/main/images/icons/express.png"/>
 <img src="https://github.com/nazmul162001/nazmul162001/blob/main/images/icons/mongo.png"/>
-</p><br/>
+</p>
 
 <br />
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazmul162001&langs_count=8)](https://github.com/nazmul162001/github-readme-stats) -->
